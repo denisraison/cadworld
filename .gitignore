@@ -1,0 +1,32 @@
+# AI Models (download separately - see SETUP.md)
+models/
+
+# Generated files
+generated/
+*.gcode
+*.3mf
+result.json
+
+# Cloned dependencies (clone separately - see SETUP.md)
+cadquery-mcp-server/
+ocp-viewer-mcp/
+bambu-mcp-agent/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+*.swp
+
+# Local Claude settings (user-specific permissions)
+.claude/settings.local.json
+
+# Large images (keep example STLs, not PNGs)
+examples/*.png
