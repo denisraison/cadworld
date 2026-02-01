@@ -59,7 +59,7 @@ cadworld/
 ├── cadquery-mcp-server/        # CadQuery MCP server (cloned repo)
 ├── text2cadquery_inference.py  # Text-to-CadQuery inference script
 ├── REPORT.md                   # Research findings and recommendations
-├── SETUP.md                    # Installation guide
+├── README.md                   # Installation guide
 └── CLAUDE.md                   # This file
 ```
 
